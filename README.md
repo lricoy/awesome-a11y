@@ -40,6 +40,7 @@
 * [Introduction to Web Accessibility](https://webaccessibility.withgoogle.com/course)
 * [Tuts+ Web Accessibility learning guide for Wordpress](http://code.tutsplus.com/series/accessibility--cms-799)
 * [Web Accessibility Tutorials](http://www.w3.org/WAI/tutorials/)
+* [Course - Start Building Accessible Web Applications Today](https://egghead.io/courses/start-building-accessible-web-applications-today)
 
 ## Articles and Videos
 
@@ -143,6 +144,7 @@ This is a list, in no particular order, of people to follow that contribute grea
 * Karl Groves  [@karlgroves](https://twitter.com/karlgroves)
 * Lainey Feingold [@LFLegal](https://twitter.com/LFLegal)
 * Léonie Watson [@LeonieWatson](http://twitter.com/LeonieWatson)
+* Lucas Ricoy [@lricoy](https://twitter.com/lricoy)
 * Luke McGrath [@lukejmcgrath](https://twitter.com/lukejmcgrath)
 * Lucy Greco [@accessaces](https://twitter.com/accessaces)
 * Marco Zehe [@MarcoZehe](https://twitter.com/MarcoZehe)
